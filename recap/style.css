@@ -1,0 +1,52 @@
+
+body{
+	margin: 0;
+	padding: 0;
+
+}
+.main-part{
+	border: 10px solid red;
+	padding: 5 pxs;
+	margin: 5px;
+
+}
+	.part1{
+	color: black;
+	border: 7px solid green;
+	margin: 5px;
+	padding: 5px;
+}
+h1{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+
+}
+.box{
+	height: 100px;
+	width: 100px;
+	float: left;
+	/*position: absolute;*/
+}
+.blue-box{
+	background: blue;
+	position: absolute ;
+	right: 0;
+}
+.green-box{
+	background: green;
+	/*position: absolute;
+	top: 50px;
+	left: 50px;*/
+}
+.red-box{
+	background: red;
+	position: absolute ;
+	bottom: 0;
+}
+.yellow-box{
+	background: yellow;
+	position: absolute ;
+	bottom: 50px;
+	right: 50px;
+}

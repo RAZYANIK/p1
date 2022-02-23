@@ -1,0 +1,81 @@
+body{
+	background-color: #CE998E ;
+	border: 1px solid;
+	border-color: #674942;
+	margin: 0px;
+	padding: 0px;
+
+	background-image: url('bg.jpg');
+	/*background-color: rgb(0 0 0 / 65%);*/
+	background-repeat: ;
+	background-position: center;
+	background-size: auto 100%;
+
+}
+.section{
+
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	color: #fdfdc7;
+	height: 100vh;
+	width: 100%;
+	display: table;
+	background-color: rgb(0 0 0 / 65%);
+}
+.intro .title h1 {
+    text-align: center;
+    font-size: 105px;
+    text-transform: uppercase;
+    margin: 20px 40px;
+    color: #a14e25;;
+}
+.intro .title h3 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin: 15px 30px;
+    color: #662c20;
+}
+
+#aboutme{
+	
+	color: #dfd8a1a8;;
+	font-size: 30px;
+	text-transform: capitalize;
+	text-align: center;
+	position: center;
+	display: table-cell;
+	vertical-align: middle;
+	
+	
+/*}
+.intro1 .title{
+	position: relative;
+	top: 35%;
+}*/
+}
+.intro .title{
+	display: table-cell;
+	vertical-align: middle;
+}
+#p1{
+	color: #fdfdfd8a;
+	font-family: calisto mt;
+	font-size: 20px;
+	text-align: center;
+	border: 3px solid;
+	border-color: #4d2e16;
+	margin: 5px;
+	padding: 5px;
+
+
+}
+.botton{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	cursor: pointer;
+}
